@@ -26,3 +26,4 @@ contract ContractFactory {
 
 contrato 1: 0x9e3e0cd92ea976faefce00f66c459033fea81e81
 contrato 2: 0x605d2d936b2d662de759a256947197c1669a0f96
+Atualização do log de atividade na rede Base
